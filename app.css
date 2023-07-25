@@ -1,0 +1,378 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: fit-content;
+    overflow-x: hidden;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.font {
+    font-family: Bebas Neue;
+    color: #E50914;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+}
+
+.net-img {
+    height: 100px;
+    position: relative;
+    left: 150px;
+}
+
+.main {
+    background-color: black;
+    height: 800px;
+}
+
+.main-img {
+    width: 100%;
+    opacity: 0.3;
+}
+
+.nav {
+    position: relative;
+    bottom: 820px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.globe {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 0px;
+    padding: 17px 15px;
+    border: .5px solid lightgray;
+    background-color: black;
+    border-radius: 5px;
+    position: relative;
+    left: 720px;
+}
+
+.english {
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: 2px;
+}
+
+
+.arrow {
+    height: 100px;
+    position: relative;
+    left: 21px;
+    color: white;
+    bottom: 22px;
+}
+
+.globe2 {
+    position: relative;
+    left: 1px;
+}
+
+.btn-sign {
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 20px;
+    position: relative;
+    left: 650px;
+}
+
+.Unlimited {
+    position: relative;
+    bottom: 650px;
+    color: white;
+    left: 300px;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.watch {
+    font-size: 25px;
+    color: white;
+    position: relative;
+    bottom: 670px;
+    left: 580px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.ready {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    bottom: 670px;
+    left: 440px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+input {
+    position: relative;
+    bottom: 640px;
+    left: 460px;
+    padding: 20px 15px;
+    background-color: transparent;
+    border: .5px solid lightgray;
+    width: 350px;
+    border-radius: 5px;
+}
+
+::placeholder {
+    color: lightgray;
+    font-size: 17px;
+}
+
+.foot {
+    position: relative;
+    bottom: 30px;
+}
+
+.get {
+    font-size: 25px;
+    font-weight: 500;
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #E50914;
+    position: relative;
+    bottom: 635px;
+    left: 480px;
+}
+
+.unli {
+    position: relative;
+    bottom: 40px;
+}
+
+.main2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: black;
+    height: 500px;
+    position: relative;
+    bottom: 520px;
+    border-top: 7px solid #343434;
+}
+
+.enjoy {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 60px;
+}
+
+.enjoy1 {
+    margin-left: 200px;
+}
+
+.des {
+    color: white;
+    font-size: 25px;
+}
+
+#chrome {
+    position: relative;
+    bottom: 12px;
+}
+
+.download {
+    margin-left: 200px;
+}
+
+.enjoy2 {
+    color: white;
+    font-size: 45px;
+}
+
+.faq {
+    margin-left: 400px;
+    margin-bottom: 880px;
+}
+
+.quest {
+    position: absolute;
+    color: white;
+    font-size: 50px;
+
+}
+
+.enjoy3 {
+    color: white;
+    font-size: 35px;
+
+}
+
+.des2 {
+    color: white;
+    font-size: 25px;
+}
+
+.enjoy4 {
+    margin-left: 200px;
+    width: 1000px;
+}
+
+.watch-img {
+    margin-right: 200px;
+}
+
+.main3 {
+    background-color: black;
+    height: 900px;
+    position: relative;
+    bottom: 520px;
+    border-top: 7px solid #343434;
+}
+
+.what {
+    width: 900px;
+    color: white;
+    display: flex;
+    background-color: #343434;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    padding: 0 40px;
+}
+
+.info {
+    position: relative;
+    bottom: 750px;
+    left: 200px;
+}
+
+.foot3 {
+    position: relative;
+    right: 70px;
+    bottom: 50px;
+}
+
+.get1 {
+    font-size: 25px;
+    font-weight: 500;
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #E50914;
+    position: relative;
+    bottom: 635px;
+    left: 465px;
+}
+
+.footer {
+    background-color: black;
+    height: 620px;
+    position: relative;
+    bottom: 520px;
+    border-top: 7px solid #343434;
+    color: white;
+
+}
+
+.call {
+    position: relative;
+    top: 50px;
+    left: 160px;
+    color: lightgray;
+}
+
+.first1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+}
+
+.first1 li {
+    list-style: none;
+}
+
+.first1 a {
+    font-size: 14px;
+    text-decoration: none;
+    color: gray;
+    border-bottom: 1px solid white;
+}
+
+.second1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+
+}
+
+.second1 li {
+    list-style: none;
+}
+
+.second1 a {
+    font-size: 14px;
+    text-decoration: none;
+    color: gray;
+    border-bottom: 1px solid white;
+}
+
+.third1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+
+}
+
+.third1 li {
+    list-style: none;
+}
+
+.third1 a {
+    font-size: 14px;
+    text-decoration: none;
+    color: gray;
+    border-bottom: 1px solid white;
+}
+
+.footer1 {
+    position: relative;
+    left: 20px;
+    display: flex;
+    margin: 80px 100px;
+    align-items: center;
+    gap: 150px;
+}
+
+.globe1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 0px;
+    padding: 17px 15px;
+    border: .5px solid lightgray;
+    background-color: black;
+    border-radius: 5px;
+    position: relative;
+    left: 152px;
+    width: 100px;
+    bottom: 50px;
+}
+
+.last {
+    color: gray;
+    font-size: 13px;
+    position: relative;
+    left: 160px;
+    bottom: 50px;
+}
+
+.what:hover {
+    background-color: gray;
+}
